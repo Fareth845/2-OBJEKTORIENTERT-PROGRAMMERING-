@@ -9,6 +9,7 @@ class Planet:
 
 jorden = Planet( "Jorden", 152, 6371)
 
+
 # Oppgave 1: 
 # Lag et objekt for Mars, Jupiter og Jorda, der du lagrer informasjon om navn, solavstand og radius. Lagre disse objektene i egne variabler
 
